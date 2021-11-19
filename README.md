@@ -5,13 +5,19 @@ This repository contains the materials for the **Causal Data Science Workshop** 
 Workshop presenter:
 - Dr. J. Mur, [datascienceUB](https://datascience.barcelona/)
 
+
+
+Supported by the Tecniospring Industry project [TECSPR19-1-0005](https://datascience.barcelona/noticia-incorporacio-tecniospring-fellow/) from Generalitat de Catalunya/[ACCIÓ](https://www.accio.gencat.cat/) and the European Commission (Horizon 2020 MSCA GA No. [801342](https://cordis.europa.eu/project/id/801342)).
+
+
+
 Folder structure:
 
 ~~~Project
  ./
- |-- README.md         - this file
+ |-- README.md		- this file
  |-- pscore_oil_wells_analyse.ipynb   - Jupyter notebook we will follow as part of the tutorial
- |-- images/		   - directory with images embedded in the Jupyter notebook and other
- |-- slides/           - directory with the presentation by the speaker
+ |-- images/		- directory with images embedded in the Jupyter notebook and other
+ |-- slides/		- directory with the presentation by the speaker
 ~~~
 
