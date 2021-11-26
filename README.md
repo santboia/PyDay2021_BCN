@@ -18,8 +18,8 @@ Folder structure:
  |-- README.md			- this file
  |-- notebooks/
  |   |-- images/		- directory with images embedded in the Jupyter notebook and other
- |   |-- notebook_1_pscore_oil_wells_analyse.ipynb		- Jupyter notebook we will follow as part of the tutorial
- |   |-- notebook_2_dowhy_hotel_cancellations.ipynb		- Jupyter notebook with another example for own work
+ |   |-- notebook_1_pscore_oil_wells_analyse.ipynb	- Jupyter notebook we will follow as part of the tutorial
+ |   |-- notebook_2_dowhy_hotel_cancellations.ipynb	- Jupyter notebook with another example for own work
  |   |-- wells.csv		- data required to run notebook 1
  |-- slides/		- directory with the presentation by the speaker
 ~~~
